@@ -1,9 +1,15 @@
-.jscript-showing p{
+.jscript-showing p {
   display: none;
 }
-.data-types ul,p{
-  display:none
+
+.data-types ul, p {
+  display: none
 }
-.jquery p{
+
+.jquery p {
   display: none;
+}
+
+.container {
+  font-size: 50px;
 }
