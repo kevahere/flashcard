@@ -1,0 +1,9 @@
+.jscript-showing p{
+  display: none;
+}
+.data-types ul,p{
+  display:none
+}
+.jquery p{
+  display: none;
+}
